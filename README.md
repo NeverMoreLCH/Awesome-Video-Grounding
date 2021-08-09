@@ -71,6 +71,50 @@ A reading list of papers about Visual Grounding.
 <br></br>
 
 
+## Temporal Video Grounding Papers
+### Datasets
+1. **Charades-STA** [2017][ICCV] TALL: Temporal Activity Localization via Language Query.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TALL_Temporal_Activity_ICCV_2017_paper.pdf)][[dataset](https://github.com/jiyanggao/TALL)][[中文解读]()]
+2. **ActivityNet Captions** [2017][ICCV] Dense-Captioning Events in Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)][[dataset](https://cs.stanford.edu/people/ranjaykrishna/densevid/)][[中文解读]()]
+3. **DiDeMo** [2017][ICCV] Localizing Moments in Video with Natural Language.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hendricks_Localizing_Moments_in_ICCV_2017_paper.pdf)][[dataset](https://github.com/LisaAnne/TemporalLanguageRelease)][[中文解读]()]
+
+### 2021 Papers
+1. [2021][CVPR] Cascaded Prediction Network via Segment Tree for Temporal Video Grounding.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Cascaded_Prediction_Network_via_Segment_Tree_for_Temporal_Video_Grounding_CVPR_2021_paper.pdf)][[中文解读]()]
+2. [2021][CVPR] Context-aware Biaffine Localizing Network for Temporal Sentence Grounding.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Context-Aware_Biaffine_Localizing_Network_for_Temporal_Sentence_Grounding_CVPR_2021_paper.pdf)][[中文解读]()]
+3. [2021][CVPR] Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Embracing_Uncertainty_Decoupling_and_De-Bias_for_Robust_Temporal_Grounding_CVPR_2021_paper.pdf)][[中文解读]()]
+4. [2021][CVPR] Interventional Video Grounding with Dual Contrastive Learning.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.pdf)][[中文解读]()]
+5. [2021][CVPR] .[[paper]()][[中文解读]()]
+
+### 2020 Papers
+1. [2020][AAAI] Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6924/6778)][[中文解读]()]
+2. [2020][ECCV] Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos.[[paper](https://arxiv.org/pdf/2007.14164)][[中文解读]()]
+3. [2020][CVPR] Local-Global Video-Text Interactions for Temporal Grounding.[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mun_Local-Global_Video-Text_Interactions_for_Temporal_Grounding_CVPR_2020_paper.pdf)][[中文解读]()]
+4. [2020][CVPR] Dense Regression Network for Video Grounding.[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Dense_Regression_Network_for_Video_Grounding_CVPR_2020_paper.pdf)][[中文解读]()]
+
+### 2019 Papers
+1. [2019][AAAI] Localizing Natural Language in Videos.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4827/4700)][[中文解读]()]
+2. [2019][AAAI] Multilevel Language and Vision Integration for Text-to-Clip Retrieval.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4938/4811)][[中文解读]()]
+3. [2019][AAAI] Read,Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4854/4727)][[中文解读]()]
+4. [2019][AAAI] Semantic Proposal for Activity Localization in Videos via Sentence Query.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4830/4703)][[中文解读]()]
+5. [2019][AAAI] To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4950/4823)][[中文解读]()]
+6. [2019][CVPR] Language-driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Language-Driven_Temporal_Activity_Localization_A_Semantic_Matching_Reinforcement_Learning_Model_CVPR_2019_paper.pdf)][[中文解读]()]
+7. [2019][CVPR] MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.pdf)][[中文解读]()]
+8. [2019][NeurIPS] Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos.[[paper](http://papers.neurips.cc/paper/8344-semantic-conditioned-dynamic-modulation-for-temporal-sentence-grounding-in-videos.pdf)][[中文解读]()]
+9. [2019][WACV] MAC: Mining Activity Concepts for Language-based Temporal Localization.[[paper](https://arxiv.org/pdf/1811.08925)][[中文解读]()]
+
+### 2018 Papers
+1. [2018][EMNLP] Localizing Moments in Video with Temporal Language.[[paper](https://arxiv.org/pdf/1809.01337)][[中文解读]()]
+2. [2018][EMNLP] Temporally Grounding Natural Sentence in Video.[[paper](https://www.aclweb.org/anthology/D18-1015.pdf)][[中文解读]()]
+3. [2018][SIGIR] Attentive Moment Retrieval in Videos.[[paper](https://www.researchgate.net/profile/Meng-Liu-67/publication/326141659_Attentive_Moment_Retrieval_in_Videos/links/6052a32f299bf173674e0c03/Attentive-Moment-Retrieval-in-Videos.pdf)][[中文解读]()]
+
+
+### 2017 Papers
+1. [2017][ICCV] TALL: Temporal Activity Localization via Language Query.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TALL_Temporal_Activity_ICCV_2017_paper.pdf)][[中文解读]()]
+2. [2017][ICCV] Dense-Captioning Events in Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)][[中文解读]()]
+3. [2017][ICCV] Localizing Moments in Video with Natural Language.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hendricks_Localizing_Moments_in_ICCV_2017_paper.pdf)][[中文解读]()]
+
+
+<br></br>
+
 ## Video Visual Grounding Papers
 ### Datasets
 
