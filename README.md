@@ -4,35 +4,21 @@ A reading list of papers about Video Grounding.
 <br></br>
 
 ## Table of Contents
-  * [Image Visual Grounding Papers](#image-visual-grounding-papers)
+  * [Temporal Video Grounding Papers](#temporal-video-grounding-papers)
      * [Datasets](#datasets)
      * [2021 Papers](#2021-papers)
      * [2020 Papers](#2020-papers)
      * [2019 Papers](#2019-papers)
      * [2018 Papers](#2018-papers)
      * [2017 Papers](#2017-papers)
-     * [2016 Papers](#2016-papers)
-     * [2015 Papers](#2015-papers)
-     * [2014 Papers](#2014-papers)
 
-  * [Temporal Video Grounding Papers](#temporal-video-grounding-papers)
+  * [Spatial-Temporal Video Grounding Papers](#spatial-temporal-video-grounding-papers)
      * [Datasets](#datasets-1)
      * [2021 Papers](#2021-papers-1)
      * [2020 Papers](#2020-papers-1)
      * [2019 Papers](#2019-papers-1)
      * [2018 Papers](#2018-papers-1)
      * [2017 Papers](#2017-papers-1)
-     
-  * [Video Visual Grounding Papers](#video-visual-grounding-papers)
-     * [Datasets](#datasets-2)
-     * [2021 Papers](#2021-papers-2)
-     * [2020 Papers](#2020-papers-2)
-     * [2019 Papers](#2019-papers-2)
-     * [2018 Papers](#2018-papers-2)
-     * [2017 Papers](#2017-papers-2)
-     * [2016 Papers](#2016-papers-1)
-     * [2015 Papers](#2015-papers-1)
-     * [2014 Papers](#2014-papers-1)
 
 <br></br>
 
@@ -114,13 +100,4 @@ TODO
 TODO
 
 ### 2017 Papers
-TODO
-
-### 2016 Papers
-TODO
-
-### 2015 Papers
-TODO
-
-### 2014 Papers
 TODO
