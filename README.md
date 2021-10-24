@@ -55,11 +55,12 @@ A reading list of papers about Video Grounding.
 9. [2021][ICCV] Boundary-sensitive Pre-training for Temporal Localization in Videos.[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Boundary-Sensitive_Pre-Training_for_Temporal_Localization_in_Videos_ICCV_2021_paper.pdf)]
 10. [2021][ICCV] Support-Set Based Cross-Supervision for Video Grounding.[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Support-Set_Based_Cross-Supervision_for_Video_Grounding_ICCV_2021_paper.pdf)]
 11. [2021][TMM] Weakly Supervised Temporal Adjacent Network for Language Grounding.[[paper](https://arxiv.org/pdf/2106.16136)]
+12. [2021][arXiv] A Closer Look at Temporal Sentence Grounding in Videos: Datasets and Metrics.[[paper](https://arxiv.org/pdf/2101.09028)][[code](https://github.com/yytzsy/grounding_changing_distribution)]
 13. [2021][CVPR] .[[paper]()]
 
 ### 2020 Papers
 1. [2020][AAAI] Weakly-Supervised Video Moment Retrieval via Semantic Completion Network.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6820/6674)]
-2. [2020][AAAI] Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6924/6778)]
+2. [2020][AAAI] Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6924/6778)][[code](https://github.com/microsoft/2D-TAN)]
 3. [2020][AAAI] Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6984/6838)]
 4. [2020][ACMMM] Fine-grained Iterative Attention Network for Temporal Language Localization in Videos.[[paper](https://arxiv.org/pdf/2008.02448)]
 5. [2020][ECCV] Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos.[[paper](https://arxiv.org/pdf/2007.14164)]
@@ -74,7 +75,7 @@ A reading list of papers about Video Grounding.
 5. [2019][AAAI] To Find Where You Talk: Temporal Sentence Localization in Video with Attention Based Location Regression.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4950/4823)]
 6. [2019][CVPR] Language-driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Language-Driven_Temporal_Activity_Localization_A_Semantic_Matching_Reinforcement_Learning_Model_CVPR_2019_paper.pdf)]
 7. [2019][CVPR] MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.pdf)]
-8. [2019][CVPR] Weakly Supervised Video Moment Retrieval From Text Queries .[[paper]()][[中文解读](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mithun_Weakly_Supervised_Video_Moment_Retrieval_From_Text_Queries_CVPR_2019_paper.pdf)]
+8. [2019][CVPR] Weakly Supervised Video Moment Retrieval From Text Queries .[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mithun_Weakly_Supervised_Video_Moment_Retrieval_From_Text_Queries_CVPR_2019_paper.pdf)]
 9. [2019][EMNLP] WSLLN:Weakly Supervised Natural Language Localization Networks.[[paper](https://arxiv.org/pdf/1909.00239)]
 10. [2019][NeurIPS] Semantic Conditioned Dynamic Modulation for Temporal Sentence Grounding in Videos.[[paper](http://papers.neurips.cc/paper/8344-semantic-conditioned-dynamic-modulation-for-temporal-sentence-grounding-in-videos.pdf)]
 11. [2019][WACV] MAC: Mining Activity Concepts for Language-based Temporal Localization.[[paper](https://arxiv.org/pdf/1811.08925)]
