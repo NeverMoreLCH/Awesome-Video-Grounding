@@ -54,7 +54,7 @@ A reading list of papers about Video Grounding.
 4. [2020][AAAI] Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6984/6838)]
 5. [2020][ACMMM] Fine-grained Iterative Attention Network for Temporal Language Localization in Videos.[[paper](https://arxiv.org/pdf/2008.02448)]
 6. [2020][ECCV] Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos.[[paper](https://arxiv.org/pdf/2007.14164)]
-7. [2020][CVPR] Local-Global Video-Text Interactions for Temporal Grounding.[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mun_Local-Global_Video-Text_Interactions_for_Temporal_Grounding_CVPR_2020_paper.pdf)]
+7. [2020][CVPR] Local-Global Video-Text Interactions for Temporal Grounding.[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mun_Local-Global_Video-Text_Interactions_for_Temporal_Grounding_CVPR_2020_paper.pdf)][[code](https://github.com/JonghwanMun/LGI4temporalgrounding)]
 8. [2020][CVPR] Dense Regression Network for Video Grounding.[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Dense_Regression_Network_for_Video_Grounding_CVPR_2020_paper.pdf)]
 
 ### 2019 Papers
