@@ -45,7 +45,7 @@ A reading list of papers about Video Grounding.
 12. [2021][ICCV] VLG-Net: Video-Language Graph Matching Network for Video Grounding.[[paper](https://openaccess.thecvf.com/content/ICCV2021W/CVEU/papers/Soldan_VLG-Net_Video-Language_Graph_Matching_Network_for_Video_Grounding_ICCVW_2021_paper.pdf)][[code](https://github.com/Soldelli/VLG-Net)]
 13. [2021][TMM] Weakly Supervised Temporal Adjacent Network for Language Grounding.[[paper](https://arxiv.org/pdf/2106.16136)]
 14. [2021][arXiv] A Closer Look at Temporal Sentence Grounding in Videos: Datasets and Metrics.[[paper](https://arxiv.org/pdf/2101.09028)][[code](https://github.com/yytzsy/grounding_changing_distribution)]
-15. [2021][CVPR] .[[paper]()]
+15. [2021][arXiv] Hierarchical Deep Residual Reasoning for Temporal Moment Localization.[[paper](https://arxiv.org/pdf/2111.00417)][[code](https://github.com/ddlBoJack/HDRR)]
 
 ### 2020 Papers
 1. [2020][AAAI] Weakly-Supervised Video Moment Retrieval via Semantic Completion Network.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6820/6674)]
