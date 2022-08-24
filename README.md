@@ -6,6 +6,7 @@ A reading list of papers about Video Grounding.
 ## Table of Contents
   * [Temporal Video Grounding Papers](#temporal-video-grounding-papers)
      * [Datasets](#datasets)
+     * [2022 Papers](#2022-papers)
      * [2021 Papers](#2021-papers)
      * [2020 Papers](#2020-papers)
      * [2019 Papers](#2019-papers)
@@ -14,6 +15,7 @@ A reading list of papers about Video Grounding.
 
   * [Spatial-Temporal Video Grounding Papers](#spatial-temporal-video-grounding-papers)
      * [Datasets](#datasets-1)
+     * [2022 Papers](#2022-papers-1)
      * [2021 Papers](#2021-papers-1)
      * [2020 Papers](#2020-papers-1)
      * [2019 Papers](#2019-papers-1)
@@ -29,6 +31,22 @@ A reading list of papers about Video Grounding.
 2. **ActivityNet Captions** [2017][ICCV] Dense-Captioning Events in Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)][[dataset](https://cs.stanford.edu/people/ranjaykrishna/densevid/)]
 3. **DiDeMo** [2017][ICCV] Localizing Moments in Video with Natural Language.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hendricks_Localizing_Moments_in_ICCV_2017_paper.pdf)][[dataset](https://github.com/LisaAnne/TemporalLanguageRelease)]
 4. **TACoS** [2013][ACL] Grounding Action Descriptions in Videos.[[paper](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00207/1566623/tacl_a_00207.pdf)][[dataset](http://www.coli.uni-saarland.de/projects/smile/page.php?id=tacos)]
+5. **CD** [2021][arXiv] A Closer Look at Temporal Sentence Grounding in Videos: Datasets and Metrics.[[paper](https://arxiv.org/pdf/2101.09028)][[dataset](https://github.com/yytzsy/grounding_changing_distribution)]
+6. **CG** [2022][CVPR] Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning.[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.pdf)][[dataset](https://github.com/YYJMJC/Compositional-Temporal-Grounding)]
+7. **MAD** [2022][CVPR] MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions.[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.pdf)][[dataset](https://github.com/Soldelli/MAD)]
+
+### 2022 Papers
+1. [2022][AAAI] Explore Inter-Contrast Between Videos via Composition forWeakly Supervised Temporal Sentence Grounding.[[paper](https://www.aaai.org/AAAI22Papers/AAAI-2108.ChenJ.pdf)]
+2. [2022][AAAI] Exploring Motion and Appearance Information for Temporal Sentence Grounding.[[paper](https://www.aaai.org/AAAI22Papers/AAAI-112.LiuD.pdf)]
+3. [2022][AAAI] Memory-Guided Semantic Learning Network for Temporal Sentence Grounding.[[paper](https://www.aaai.org/AAAI22Papers/AAAI-111.LiuD.pdf)]
+4. [2022][AAAI] Negative Sample Matters: A Renaissance of Metric Learning for Temporal Grounding.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20163/19922)]
+5. [2022][AAAI] Unsupervised Temporal Video Grounding with Deep Semantic Clustering.[[paper](https://www.aaai.org/AAAI22Papers/AAAI-110.LiuD.pdf)]
+6. [2022][CVPR] Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning.[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.pdf)][[code](https://github.com/YYJMJC/Compositional-Temporal-Grounding)]
+7. [2022][CVPR] MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions.[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.pdf)][[code](https://github.com/Soldelli/MAD)]
+8. [2022][IJCV] Weakly Supervised Moment Localization with Decoupled Consistent Concept Prediction.[[paper](https://link.springer.com/article/10.1007/s11263-022-01600-0)]
+9. [2022][TIP] Video Moment Retrieval with Cross-Modal Neural Architecture Search.[[paper](https://ieeexplore.ieee.org/abstract/document/9677948/)]
+10. [2022][TIP] Exploring Language Hierarchy for Video Grounding.[[paper](https://ieeexplore.ieee.org/abstract/document/9817030/)]
+11. [2022][TMM] Cross-modal Dynamic Networks for Video Moment Retrieval with Text Query.[[paper](https://ieeexplore.ieee.org/abstract/document/9681153/)]
 
 ### 2021 Papers
 1. [2021][ACL] Parallel Attention Network with Sequence Matching for Video Grounding.[[paper](https://arxiv.org/pdf/2105.08481)]
@@ -88,6 +106,8 @@ A reading list of papers about Video Grounding.
 ### Datasets
 TODO
 
+### 2022 Papers
+1. [2022][AAAI] End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding.[[paper]()]
 
 ### 2021 Papers
 1. [2021][CVPR] Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Co-Grounding_Networks_With_Semantic_Attention_for_Referring_Expression_Comprehension_in_CVPR_2021_paper.pdf)]
